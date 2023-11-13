@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     <dd></dd>('welcome');
 });
+
+Route::get('rejester ', function () {
+    ad ('rejester ');
+});
+ 
